@@ -1,81 +1,98 @@
-# Hi there! 👋 I'm Shiva Kumar
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL">
+    <img width="80%" alt="Hello, I'm Shiva Kumar. I turn data into insights." src="./assets/gh-readme-header.png" />
+  </a>
+</p>
 
-Aspiring Data Analyst passionate about turning raw data into meaningful business insights.
+<br />
 
----
+I'm an aspiring Data Analyst from India 🇮🇳 passionate about turning raw data into meaningful business insights.
 
-## 📌 About Me
+**About me**
 
 - 🎓 B.Tech in Artificial Intelligence & Data Science
-- 📊 Interested in Data Analytics, Product Analytics, and Business Intelligence
-- 💡 Passionate about solving real-world business problems with data
-- 🌱 Currently building portfolio projects using Google BigQuery, SQL, Python, and Power BI
 
----
+- 💼 Data Analyst Intern at **Galactix Solutions Pvt. Ltd.**
 
-## 🛠 Tech Stack
+- 📊 I work with SQL, Python, Power BI, Excel, and Google BigQuery
 
-### Languages
-- SQL
-- Python
+- 🔎 I enjoy analyzing customer behavior, business performance, and product data
 
-### Data Analysis
-- Pandas
-- NumPy
+- 🚀 Currently building data analytics projects based on real-world business problems
 
-### Databases
-- Google BigQuery
+<code><img height="20" alt="SQL" src="https://cdn.simpleicons.org/mysql" /></code>
+<code><img height="20" alt="Python" src="https://cdn.simpleicons.org/python" /></code>
+<code><img height="20" alt="Pandas" src="https://cdn.simpleicons.org/pandas" /></code>
+<code><img height="20" alt="Microsoft Excel" src="https://cdn.simpleicons.org/microsoftexcel" /></code>
+<code><img height="20" alt="Power BI" src="https://cdn.simpleicons.org/powerbi" /></code>
+<code><img height="20" alt="Google BigQuery" src="https://cdn.simpleicons.org/googlebigquery" /></code>
+<code><img height="20" alt="Looker Studio" src="https://cdn.simpleicons.org/looker" /></code>
+<code><img height="20" alt="Git" src="https://cdn.simpleicons.org/git" /></code>
+<code><img height="20" alt="GitHub" src="https://cdn.simpleicons.org/github" /></code>
 
-### Visualization
-- Power BI
-- Looker Studio
-- Excel
+<br />
+<br />
 
-### Tools
-- Git
-- GitHub
-- VS Code
+| <a href="YOUR_GA4_REPOSITORY_URL"><img align="center" src="./assets/ga4-project-preview.png" alt="GA4 Customer Journey Analysis" /></a> | <a href="YOUR_AI_FUNNEL_REPOSITORY_URL"><img align="center" src="./assets/ai-funnel-project-preview.png" alt="AI Hiring Funnel Analysis" /></a> |
+| ------------- | ------------- |
+| **GA4 Customer Journey Analysis** | **AI Hiring Funnel Analysis** |
+| BigQuery • SQL • GA4 • Looker Studio | SQL • Power BI • Business Analytics |
 
----
+<br />
 
-## 🚀 Featured Projects
+## 📊 Portfolio Highlights
 
-### 📈 Google Merchandise Store (GA4) Analysis
-Analyzed GA4 ecommerce data using BigQuery to identify user behavior, purchase funnel performance, and revenue insights.
+- **4.2M+** GA4 event records analyzed using BigQuery SQL
+- **61K+** product viewers analyzed across the purchase journey
+- **4.4K+** purchasers evaluated to understand conversion behavior
+- Built dashboards to communicate business and customer insights
+- Applied SQL, data cleaning, funnel analysis, and KPI analysis to portfolio projects
 
-**Tools:** BigQuery • SQL • Looker Studio
+<br />
 
----
+## 🔍 What I Work On
 
-### 🤖 AI Hiring Funnel Analysis
-Analyzed an AI recruitment pipeline to identify bottlenecks, optimize hiring stages, and improve recruiter efficiency.
+- Customer Journey & Funnel Analysis
+- Business Intelligence & Dashboarding
+- Data Cleaning & Quality Checks
+- SQL Analysis
+- Product & E-commerce Analytics
+- KPI Reporting
+- Business Problem Solving
 
-**Tools:** SQL • Power BI
-
----
-
-### 📊 Retail Sales Dashboard
-Interactive dashboard analyzing sales, profit, customer segments, and regional performance.
-
-**Tools:** Power BI • Excel
-
----
+<br />
 
 ## 🌱 Currently Learning
 
-- Product Analytics
 - Advanced SQL
-- Google BigQuery
+- Product Analytics
 - A/B Testing
+- Advanced Google BigQuery
 - Data Storytelling
 
----
+<br />
 
-## 📫 Connect
+## 📂 Featured Projects
 
-- LinkedIn *(Add your profile link here)*
-- Portfolio *(Coming Soon)*
+<a href="YOUR_GA4_REPOSITORY_URL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shivakumarbandari000&repo=YOUR_GA4_REPOSITORY_NAME&theme=default&hide_border=true" />
+</a>
 
----
+<a href="YOUR_AI_FUNNEL_REPOSITORY_URL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shivakumarbandari000&repo=YOUR_AI_FUNNEL_REPOSITORY_NAME&theme=default&hide_border=true" />
+</a>
 
-⭐ Always learning. Always building.
+<br />
+<br />
+
+<a href="YOUR_LINKEDIN_URL">
+  <img align="right" alt="Shiva Kumar | LinkedIn" width="21px" src="./assets/linkedin.svg" />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img align="right" alt="Shiva Kumar | Portfolio" width="21px" src="./assets/website.svg" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img align="right" alt="Shiva Kumar | Email" width="21px" src="./assets/email.svg" />
+</a>
